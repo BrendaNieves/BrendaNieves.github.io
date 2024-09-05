@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+
+
+header {
+    flex-direction: column;
+    background-color: rgb(200, 180, 226);
+    flex-direction: column;
+   
+}
+
+a {
+    text-decoration: none;
+}
+
+header ul {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin: 20px;
+
+}
+
+    
+
+img{
+    width: 100%;
+    height: 100%;
+    border: 2px solid plum;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+img {
+    width: 150px;
+    height: 100;}
+
+nav ul{
+        display: flex;
+          flex-direction: column;
+align-items: center;
+align-content: center;
+justify-content: center;
+}
+
+
+h1 {
+    font-size: 34px;
+    color: rgb(39, 36, 38);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(10, 10, 10);
+}
+
+.presentación {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.presentación h1 {
+    font-size: 35px;
+    color: rgb(21, 2, 52);
+}
+
+.presentación p {
+    width: 70%;
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Delicious Handrawn", cursive;
+
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(122, 103, 119);
+}
+
+.caja1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.caja1 img {
+    border-radius: 50%;
+}
+
+.caja1 p {
+    font-size: 12px;
+}
+
+.caja2 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.caja2 img {
+    border-radius: 50%;
+}
+
+.caja2 p {
+    font-size: 12px;
+}
+
+.caja3 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.caja3 img {
+    border-radius: 50%;
+}
+
+.caja3 p {
+    font-size: 12px;
+}
+
+#nosotros {
+    width: 100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;   
+    
+}
+
+#nosotros iframe{
+margin: 5px;
+}
+
+.nosotros1 {
+    width: 100%;
+    flex-direction:column;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+    
+}
+
+
+
+.nosotros2 {
+    width: 100%;
+    flex-direction:column;
+    height: 100%;
+    display: flex;
+    padding: 10px;
+    
+
+}
+
+.nosotros3 {
+    width: 50%;
+    flex-direction:column;
+    display: flex;
+    height: 50%;
+   
+
+   
+}
